@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Allgemein",
+            "mandatory": true
+        },
+        {
+            "id": 2,
+            "title": "Instagram"
+        },
+        {
+            "id": 3,
+            "title": "Snapchat"
+        },
+        {
+            "id": 4,
+            "title": "TikTok"
+        },
+        {
+            "id": 5,
+            "title": "Facebook"
+        },
+        {
+            "id": 6,
+            "title": "Online-Foren",
+            "subtitle": "Reddit, Quora, usw..."
+        },
+        {
+            "id": 7,
+            "title": "Messenger-Dienste",
+            "subtitle": "SMS, WhatsApp, iMessage, Discord, Signal, usw..."
+        }
+    ],
+    "tasks": [
+        {
+            "id": 1,
+            "categoryId": 1,
+            "contentUrl": "/tasks/allgemein_01.html",
+            "title": "Das ist ein Test.",
+            "desc": "Sieh dir diesen Test-Artikel jetzt an!"
+        }
+    ]
+}
