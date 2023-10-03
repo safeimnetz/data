@@ -60,6 +60,20 @@
             "contentUrl": "/tasks/allgemein_01.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+        },
+        {
+            "id": 5,
+            "categoryId": 3,
+            "contentUrl": "/tasks/allgemein_01.html",
+            "title": "Das ist ein Test.",
+            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+        },
+        {
+            "id": 6,
+            "categoryId": 3,
+            "contentUrl": "/tasks/allgemein_01.html",
+            "title": "Das ist ein Test.",
+            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         }
     ]
 }
