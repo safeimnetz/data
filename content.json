@@ -34,48 +34,40 @@
             "categoryId": 1,
             "infoContentUrl": "/tasks/allgemein_01_info.html",
             "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+            "title": "Starke Passwörter, sicheres Leben",
+            "desc": "Ein starkes, einzigartiges Passwort für jeden Account ist unerlässlich. Schütze dich vor Hackern und erleichtere dir das Leben mit Tools."
         },
         {
             "id": 2,
-            "categoryId": 2,
+            "categoryId": 1,
             "infoContentUrl": "/tasks/allgemein_01_info.html",
             "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+            "title": "Das Internet vergisst nie",
+            "desc": "Dein Bild, deine Kontrolle. Teile niemals kompromittierende Fotos oder persönliche Informationen, die gegen dich verwendet werden könnten."
         },
         {
             "id": 3,
-            "categoryId": 3,
+            "categoryId": 1,
             "infoContentUrl": "/tasks/allgemein_01_info.html",
             "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+            "title": "Unbekannte Bekanntschaft",
+            "desc": "Das Internet ist voller Masken. Sei vorsichtig, wem du vertraust, und hinterfrage immer die Absichten."
         },
         {
             "id": 4,
-            "categoryId": 3,
+            "categoryId": 1,
             "infoContentUrl": "/tasks/allgemein_01_info.html",
             "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+            "title": "Vorsicht vor Spam und Werbefallen",
+            "desc": "Nicht jede Benachrichtigung oder Werbung hat gute Absichten. Lerne, wie du gefährliche Links und Botschaften erkennst."
         },
         {
             "id": 5,
-            "categoryId": 3,
+            "categoryId": 1,
             "infoContentUrl": "/tasks/allgemein_01_info.html",
             "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
-        },
-        {
-            "id": 6,
-            "categoryId": 3,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
-            "title": "Das ist ein Test.",
-            "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
+            "title": "Deine Daten, deine Sache",
+            "desc": "Daten können verloren gehen oder gestohlen werden. Sei immer vorbereitet und sichere regelmäßig alles Wichtige."
         }
     ]
 }
