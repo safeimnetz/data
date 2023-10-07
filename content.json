@@ -32,42 +32,48 @@
         {
             "id": 1,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         },
         {
             "id": 2,
             "categoryId": 2,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         },
         {
             "id": 3,
             "categoryId": 3,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         },
         {
             "id": 4,
             "categoryId": 3,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         },
         {
             "id": 5,
             "categoryId": 3,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         },
         {
             "id": 6,
             "categoryId": 3,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "infoContentUrl": "/tasks/allgemein_01_info.html",
+            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
             "title": "Das ist ein Test.",
             "desc": "Hallo, das ist ein Beispieltask, wie du sicherer im Internet sein kannst. Befolge die Aufgabe direkt jetzt, so kann dir online nichts mehr passieren!"
         }
