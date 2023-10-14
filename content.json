@@ -32,40 +32,35 @@
         {
             "id": 1,
             "categoryId": 1,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
+            "contentUrl": "/tasks/allgemein_01.html",
             "title": "Starke Passwörter, sicheres Leben",
             "desc": "Ein starkes, einzigartiges Passwort für jeden Account ist unerlässlich. Schütze dich vor Hackern und erleichtere dir das Leben mit Tools."
         },
         {
             "id": 2,
             "categoryId": 1,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
+            "contentUrl": "/tasks/allgemein_01.html",
             "title": "Das Internet vergisst nie",
             "desc": "Dein Bild, deine Kontrolle. Teile niemals kompromittierende Fotos oder persönliche Informationen, die gegen dich verwendet werden könnten."
         },
         {
             "id": 3,
             "categoryId": 1,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
+            "contentUrl": "/tasks/allgemein_01.html",
             "title": "Unbekannte Bekanntschaft",
             "desc": "Das Internet ist voller Masken. Sei vorsichtig, wem du vertraust, und hinterfrage immer die Absichten."
         },
         {
             "id": 4,
             "categoryId": 1,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
+            "contentUrl": "/tasks/allgemein_01.html",
             "title": "Vorsicht vor Spam und Werbefallen",
             "desc": "Nicht jede Benachrichtigung oder Werbung hat gute Absichten. Lerne, wie du gefährliche Links und Botschaften erkennst."
         },
         {
             "id": 5,
             "categoryId": 1,
-            "infoContentUrl": "/tasks/allgemein_01_info.html",
-            "tutorialContentUrl": "/tasks/allgemein_01_tutorial.html",
+            "contentUrl": "/tasks/allgemein_01.html",
             "title": "Deine Daten, deine Sache",
             "desc": "Daten können verloren gehen oder gestohlen werden. Sei immer vorbereitet und sichere regelmäßig alles Wichtige."
         }
