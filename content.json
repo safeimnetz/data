@@ -32,37 +32,149 @@
         {
             "id": 1,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "contentUrl": "/tasks/01_allgemein/01_starke_passwoeter.html",
             "title": "Starke Passwörter, sicheres Leben",
             "desc": "Ein starkes, einzigartiges Passwort für jeden Account ist unerlässlich. Schütze dich vor Hackern und erleichtere dir das Leben mit Tools."
         },
         {
             "id": 2,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "contentUrl": "/tasks/01_allgemein/02_internet_vergisst_nie.html",
             "title": "Das Internet vergisst nie",
             "desc": "Dein Bild, deine Kontrolle. Teile niemals kompromittierende Fotos oder persönliche Informationen, die gegen dich verwendet werden könnten."
         },
         {
             "id": 3,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "contentUrl": "/tasks/01_allgemein/03_unbekannte_bekanntschaft.html",
             "title": "Unbekannte Bekanntschaft",
             "desc": "Das Internet ist voller Masken. Sei vorsichtig, wem du vertraust, und hinterfrage immer die Absichten."
         },
         {
             "id": 4,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "contentUrl": "/tasks/01_allgemein/04_vorsicht_vor_spam.html",
             "title": "Vorsicht vor Spam und Werbefallen",
             "desc": "Nicht jede Benachrichtigung oder Werbung hat gute Absichten. Lerne, wie du gefährliche Links und Botschaften erkennst."
         },
         {
             "id": 5,
             "categoryId": 1,
-            "contentUrl": "/tasks/allgemein_01.html",
+            "contentUrl": "/tasks/01_allgemein/05_deine_daten_backup.html",
             "title": "Deine Daten, deine Sache",
             "desc": "Daten können verloren gehen oder gestohlen werden. Sei immer vorbereitet und sichere regelmäßig alles Wichtige."
+        },
+        {
+            "id": 6,
+            "categoryId": 2,
+            "contentUrl": "/tasks/02_instagram/01_privater_account.html",
+            "title": "Öffentlich oder privat? Deine Wahl!",
+            "desc": "Verstehe den Unterschied zwischen einem öffentlichen und einem privaten Profil und lerne, wie du den Schutz deiner Daten erhöhst."
+        },
+        {
+            "id": 7,
+            "categoryId": 2,
+            "contentUrl": "/tasks/02_instagram/02_die_kunst_des_teilens.html",
+            "title": "Die Kunst des verantwortungsvollen Teilens",
+            "desc": "Nicht alles gehört ins Netz. Lerne, welche Inhalte du besser für dich behältst."
+        },
+        {
+            "id": 8,
+            "categoryId": 2,
+            "contentUrl": "/tasks/02_instagram/03_freund_oder_nicht.html",
+            "title": "Freund oder nicht? Wähle deine Follower weise!",
+            "desc": "Es ist wichtig zu wissen, wer dir folgt und warum."
+        },
+        {
+            "id": 9,
+            "categoryId": 3,
+            "contentUrl": "/tasks/03_snapchat/01_snap_mit_bedacht.html",
+            "title": "Snap mit Bedacht: Wer sieht deine Snaps wirklich?",
+            "desc": "Die Einstellungen deines Snapchats können bestimmen, wer deine Inhalte sieht. Stelle sicher, dass du die Kontrolle darüber hast."
+        },
+        {
+            "id": 10,
+            "categoryId": 3,
+            "contentUrl": "/tasks/03_snapchat/02_der_geist_modus.html",
+            "title": "Der Geist-Modus: Unsichtbar auf der Karte",
+            "desc": "Deine Standortdaten gehören dir. Lerne, wie du sie schützt."
+        },
+        {
+            "id": 11,
+            "categoryId": 3,
+            "contentUrl": "/tasks/03_snapchat/03_stories.html",
+            "title": "Stories: Eine Geschichte des Datenschutzes",
+            "desc": "Wer kann deine Stories sehen? Entscheide bewusst!"
+        },
+        {
+            "id": 12,
+            "categoryId": 3,
+            "contentUrl": "/tasks/03_snapchat/04_versteckt_keine_bots.html",
+            "title": "Versteckt im Rampenlicht: Kein Platz für Bots!",
+            "desc": "Bots und unerwünschte Accounts können dein Snapchat-Erlebnis beeinträchtigen. Erfahre, wie du verhindern kannst, dass sie dich finden."
+        },
+        {
+            "id": 13,
+            "categoryId": 4,
+            "contentUrl": "/tasks/04_tiktok/01_vorhang_zu.html",
+            "title": "Vorhang zu: Privatsphäre in TikTok",
+            "desc": "Deine Videos, deine Regeln. Bestimme, wer was sieht."
+        },
+        {
+            "id": 14,
+            "categoryId": 4,
+            "contentUrl": "/tasks/04_tiktok/02_kommentare.html",
+            "title": "Kommentare: Ein zweischneidiges Schwert",
+            "desc": "Kommentare können bereichern, aber auch verletzen. Lerne, wie du sie managen kannst."
+        },
+        {
+            "id": 15,
+            "categoryId": 4,
+            "contentUrl": "/tasks/04_tiktok/03_duette_und_reaktionen.html",
+            "title": "Duette und Reaktionen: Mit wem interagierst du?",
+            "desc": "Interaktion kann Spaß machen, aber es ist wichtig zu wissen, mit wem du dich verbindest."
+        },
+        {
+            "id": 16,
+            "categoryId": 5,
+            "contentUrl": "/tasks/05_foren/01_anonymitaet.html",
+            "title": "Anonymität: Dein Schild im Web",
+            "desc": "In Foren kann Anonymität dein bester Freund sein. Lerne, wie du sie effektiv nutzen kannst."
+        },
+        {
+            "id": 17,
+            "categoryId": 5,
+            "contentUrl": "/tasks/05_foren/02_links_und_anhaenge.html",
+            "title": "Links und Anhänge: Vorsicht ist besser als Nachsicht",
+            "desc": "Schädliche Inhalte können überall lauern. Sei immer wachsam!"
+        },
+        {
+            "id": 18,
+            "categoryId": 5,
+            "contentUrl": "/tasks/05_foren/03_teilen_mit_bedacht.html",
+            "title": "Teilen mit Bedacht: Weniger ist mehr",
+            "desc": "Persönliche Daten können in Foren leicht missbraucht werden. Gib nur das Nötigste preis."
+        },
+        {
+            "id": 19,
+            "categoryId": 5,
+            "contentUrl": "/tasks/05_foren/04_discord.html",
+            "title": "Tipps für Discord",
+            "desc": "Du nutzt Discord? Dann erfahre hier, wie du Spam und Angriffen auf Discord gekonnt ausweichen kannst."
+        },
+        {
+            "id": 20,
+            "categoryId": 6,
+            "contentUrl": "/tasks/06_messenger/01_chatten_mit_bedacht.html",
+            "title": "Chatten mit Bedacht: Wer liest mit?",
+            "desc": "Nachrichten sind privat. Aber sind sie auch sicher? Lerne, welche Messenger-Dienste Ende-zu-Ende-Verschlüsselung bieten und warum das wichtig ist."
+        },
+        {
+            "id": 21,
+            "categoryId": 6,
+            "contentUrl": "/tasks/06_messenger/02_blaue_haken.html",
+            "title": "Blaue Haken: Lesebestätigungen ja oder nein?",
+            "desc": "Lesebestätigungen können nützlich sein, aber auch Druck erzeugen. Überlege, ob du sie wirklich brauchst."
         }
     ]
 }
