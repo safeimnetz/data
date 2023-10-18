@@ -163,6 +163,13 @@
             "desc": "Du nutzt Discord? Dann erfahre hier, wie du Spam und Angriffen auf Discord gekonnt ausweichen kannst."
         },
         {
+            "id": 22,
+            "categoryId": 5,
+            "contentUrl": "/tasks/05_foren/05_reddit.html",
+            "title": "Tipps für Reddit",
+            "desc": "Du nutzt Reddit? Dann erfahre hier, wie du Spam und Angriffen auf Reddit gekonnt ausweichen kannst."
+        },
+        {
             "id": 20,
             "categoryId": 6,
             "contentUrl": "/tasks/06_messenger/01_chatten_mit_bedacht.html",
